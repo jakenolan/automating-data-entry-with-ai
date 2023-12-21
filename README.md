@@ -1,2 +1,1 @@
-# ocr-with-gpt4v
-OCR capabilities with GPT4 Vision
+# OCR Capabilities With GPT4 Vision
