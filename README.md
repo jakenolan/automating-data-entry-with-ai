@@ -1,1 +1,1 @@
-# OCR Capabilities With GPT4 Vision
+# OCR Capabilities of GPT4 Vision
