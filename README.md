@@ -1,9 +1,9 @@
-# OCR Capabilities of GPT4 Vision
+# How to Automate Data Entry the Easy Way
 
 <br />
 
 ---
 
-Work in progress! This will be the repo for my OCR with GPT4V tutorial. Come back here soon to see the code!
+Ever have to review invoices, resumes, forms? We all do, and we all know how tedious it can be. Here is how to automate data entry the easy way using OpenAI's GPT4 Vision model.
 
 ---
