@@ -1,4 +1,4 @@
-# How to Automate Data Entry the Easy Way
+# How To Automate Data Entry The Easy Way
 
 <br />
 
